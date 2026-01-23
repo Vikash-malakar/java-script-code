@@ -10,3 +10,4 @@ console.log(numbers.has(30));
 numbers.delete(20);
 
 console.log(numbers);
+console.log(numbers);
